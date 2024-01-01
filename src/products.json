@@ -1,0 +1,134 @@
+[
+    {
+        "id": 1,
+        "title": "SOBRECAMISA DENIM COLORES",
+        "price": 10.99,
+        "stock": 100,
+        "percentage": 15
+    },
+    {
+        "id": 2,
+        "title": "PANTALÓN CHINO PLIEGUES",
+        "price": 29.99,
+        "stock": 80
+    },
+    {
+        "id": 3,
+        "title": "CAMISETA RÚSTICA PUNTO",
+        "price": 39.99,
+        "stock": 20,
+        "percentage": 30
+    },
+    {
+        "id": 4,
+        "title": "JEANS CARGO ROTOS",
+        "price": 50.39,
+        "stock": 30,
+        "percentage": 5
+    },
+    {
+        "id": 5,
+        "title": "CAMISETA TANK ESTRUCTURA",
+        "price": 25.99,
+        "stock": 35    
+    },
+    {
+        "id": 6,
+        "title": "SUDADERA ESTAMPADO COMBINADO",
+        "price": 20.99,
+        "stock": 40,
+        "percentage": 15
+    },
+    {
+        "id": 7,
+        "title": "CAZADORA LIGERA CAPUCHA",
+        "price": 109.99,
+        "stock": 50,
+        "percentage": 25
+    },
+    {
+        "id": 8,
+        "title": "CAMISETA PUNTO TEXTO",
+        "price": 30.99,
+        "stock": 50,
+        "percentage": 5
+    },
+    {
+        "id": 9,
+        "title": "CAMISETA BÁSICA CUELLO PICO",
+        "price": 15.33,
+        "stock": 15
+    },
+    {
+        "id": 10,
+        "title": "CAMISETA OVERSIZE HEAVY WEIGHT",
+        "price": 20.99,
+        "stock": 20
+    },
+    {
+        "id": 11,
+        "title": "POLO ESTRUCTURA PIQUÉ",
+        "price": 15.99,
+        "stock": 6,
+        "percentage": 12 
+    },
+    {
+        "id": 12,
+        "title": "JERSEY BÁSICO",
+        "price": 31.59,
+        "stock": 60
+    },
+    {
+        "id": 13,
+        "title": "CAMISETA PUNTO ESTAMPADO",
+        "price": 47.99,
+        "stock": 20
+    },
+    {
+        "id": 14,
+        "title": "CAMISETA TANK",
+        "price": 31.59,
+        "stock": 10,
+        "percentage": 6 
+
+    },
+    {
+        "id": 15,
+        "title": "CAMISETA CUELLO SUBIDO",
+        "price": 11.99,
+        "stock": 20
+    },
+    {
+        "id": 16,
+        "title": "CAMISETA BÁSICA CUELLO PICO",
+        "price": 23.99,
+        "stock": 20
+    },
+    {
+        "id": 17,
+        "title": "CAMISETA FLÚOR",
+        "price": 19.99,
+        "stock": 20
+    },
+    {
+        "id": 18,
+        "title": "CAMISETA CROPPE",
+        "price": 24.99,
+        "stock": 20
+    },
+    {
+        "id": 19,
+        "title": "CAMISA ESTAMPADO ABSTRACTO",
+        "price": 39.99,
+        "stock": 20,
+        "percentage": 5
+
+    },
+    {
+        "id": 20,
+        "title": "SUDADERA BÁSICA CAPUCHA",
+        "price": 22.99,
+        "stock": 20
+    }
+]
+  
